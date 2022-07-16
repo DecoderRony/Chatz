@@ -1,11 +1,11 @@
 # Chatz
 A PWA chat app built using Flutter and Sockets
 
-##How to work?
+## How to work?
   You should have Flutter sdk installed.
   You should have NodeJs installed.
   
-  ###NodeJs packages
+  ### NodeJs packages
     Install Nodemon using "npm install nodemon"
     Install Socket using "npm install socket.io"
     
